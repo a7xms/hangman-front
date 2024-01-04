@@ -1,0 +1,48 @@
+.tableContainer {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.tableHeaderCell {
+    background-color: #1976d2;
+    color: white;
+    font-weight: bold;
+}
+
+.tableRow:hover {
+    background-color: #f5f5f5;
+}
+
+.actionButtons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.addButton {
+    margin: 20px auto;
+    display: flex;
+}
+
+.searchContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.searchButton {
+    margin-left: 10px;
+}
+
+.dialogTitle {
+    background-color: #1565c0;
+    color: white;
+}
+
+.wordInput {
+    margin-bottom: 20px;
+}
+
+.attemptsInput {
+    margin-bottom: 20px;
+}
+
